@@ -1,205 +1,97 @@
 {
-  "shows": {
-    "ALUC|6249|20261105|3D PLATINUM": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261105",
-      "cat": "3D PLATINUM",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|6249|20261105|3D GOLD": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261105",
-      "cat": "3D GOLD",
-      "price": "395.00",
-      "status": "0"
-    },
-    "ALUC|6249|20261105|3D DIRECTOR CHOICE": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261105",
-      "cat": "3D DIRECTOR CHOICE",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|6249|20261105|3D GOLD.": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261105",
-      "cat": "3D GOLD.",
-      "price": "395.00",
-      "status": "2"
-    },
-    "ALUC|6323|20261105|3D PLATINUM": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "03:00 PM",
-      "date": "20261105",
-      "cat": "3D PLATINUM",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|6323|20261105|3D GOLD": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "03:00 PM",
-      "date": "20261105",
-      "cat": "3D GOLD",
-      "price": "395.00",
-      "status": "0"
-    },
-    "ALUC|6323|20261105|3D DIRECTOR CHOICE": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "03:00 PM",
-      "date": "20261105",
-      "cat": "3D DIRECTOR CHOICE",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|6323|20261105|3D GOLD.": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "03:00 PM",
-      "date": "20261105",
-      "cat": "3D GOLD.",
-      "price": "395.00",
-      "status": "2"
-    },
-    "ALUC|6325|20261105|3D PLATINUM": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:02 PM",
-      "date": "20261105",
-      "cat": "3D PLATINUM",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|6325|20261105|3D GOLD": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:02 PM",
-      "date": "20261105",
-      "cat": "3D GOLD",
-      "price": "395.00",
-      "status": "0"
-    },
-    "ALUC|6325|20261105|3D DIRECTOR CHOICE": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:02 PM",
-      "date": "20261105",
-      "cat": "3D DIRECTOR CHOICE",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|6325|20261105|3D GOLD.": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:02 PM",
-      "date": "20261105",
-      "cat": "3D GOLD.",
-      "price": "395.00",
-      "status": "1"
-    },
-    "ALUC|6329|20261106|3D PLATINUM": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261106",
-      "cat": "3D PLATINUM",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|6329|20261106|3D GOLD": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261106",
-      "cat": "3D GOLD",
-      "price": "395.00",
-      "status": "1"
-    },
-    "ALUC|6329|20261106|3D DIRECTOR CHOICE": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261106",
-      "cat": "3D DIRECTOR CHOICE",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|6329|20261106|3D GOLD.": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261106",
-      "cat": "3D GOLD.",
-      "price": "395.00",
-      "status": "3"
-    },
-    "ALUC|6331|20261107|3D PLATINUM": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261107",
-      "cat": "3D PLATINUM",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|6331|20261107|3D GOLD": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261107",
-      "cat": "3D GOLD",
-      "price": "395.00",
-      "status": "1"
-    },
-    "ALUC|6331|20261107|3D DIRECTOR CHOICE": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261107",
-      "cat": "3D DIRECTOR CHOICE",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|6331|20261107|3D GOLD.": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261107",
-      "cat": "3D GOLD.",
-      "price": "395.00",
-      "status": "2"
-    },
-    "ALUC|6333|20261108|3D PLATINUM": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261108",
-      "cat": "3D PLATINUM",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|6333|20261108|3D GOLD": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261108",
-      "cat": "3D GOLD",
-      "price": "395.00",
-      "status": "0"
-    },
-    "ALUC|6333|20261108|3D DIRECTOR CHOICE": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261108",
-      "cat": "3D DIRECTOR CHOICE",
-      "price": "450.00",
-      "status": "0"
-    },
-    "ALUC|6333|20261108|3D GOLD.": {
-      "venue": "ALLU Cinemas: Kokapet",
-      "time": "11:00 AM",
-      "date": "20261108",
-      "cat": "3D GOLD.",
-      "price": "395.00",
-      "status": "2"
+  "watches": {
+    "hyderabad:ET00493076:all": {
+      "shows": {
+        "PRHN|258050|20261105|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "07:45 AM",
+          "date": "20261105",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "1"
+        },
+        "PRHN|258052|20261105|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "03:25 PM",
+          "date": "20261105",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "1"
+        },
+        "PRHN|258054|20261105|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "11:05 PM",
+          "date": "20261105",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "1"
+        },
+        "GPRH|35829|20261105|3D GOLD": {
+          "venue": "GPR Multiplex: Nizampet, Hyderabad",
+          "time": "11:45 AM",
+          "date": "20261105",
+          "cat": "3D GOLD",
+          "price": "325.00",
+          "status": "3"
+        },
+        "GPRH|35829|20261105|3D RECLINER": {
+          "venue": "GPR Multiplex: Nizampet, Hyderabad",
+          "time": "11:45 AM",
+          "date": "20261105",
+          "cat": "3D RECLINER",
+          "price": "384.00",
+          "status": "0"
+        },
+        "GPRH|35830|20261105|3D GOLD": {
+          "venue": "GPR Multiplex: Nizampet, Hyderabad",
+          "time": "03:30 PM",
+          "date": "20261105",
+          "cat": "3D GOLD",
+          "price": "325.00",
+          "status": "3"
+        },
+        "GPRH|35830|20261105|3D RECLINER": {
+          "venue": "GPR Multiplex: Nizampet, Hyderabad",
+          "time": "03:30 PM",
+          "date": "20261105",
+          "cat": "3D RECLINER",
+          "price": "384.00",
+          "status": "0"
+        },
+        "PRHN|257902|20261106|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "07:45 AM",
+          "date": "20261106",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "2"
+        },
+        "PRHN|258055|20261107|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "07:45 AM",
+          "date": "20261107",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "2"
+        },
+        "PRHN|258060|20261108|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "07:45 AM",
+          "date": "20261108",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "2"
+        }
+      },
+      "dates": {
+        "20261105": "BOOKABLE",
+        "20261106": "AVAILABLE",
+        "20261107": "AVAILABLE",
+        "20261108": "AVAILABLE",
+        "20261109": "NOT_OPEN",
+        "20261110": "NOT_OPEN",
+        "20261111": "NOT_OPEN"
+      }
     }
-  },
-  "dates": {
-    "20261105": "BOOKABLE",
-    "20261106": "AVAILABLE",
-    "20261107": "AVAILABLE",
-    "20261108": "AVAILABLE",
-    "20261109": "NOT_OPEN",
-    "20261110": "NOT_OPEN",
-    "20261111": "NOT_OPEN"
   }
 }
