@@ -2,22 +2,6 @@
   "watches": {
     "hyderabad:ET00493076:all": {
       "shows": {
-        "PRHN|257902|20261106|GOLD + 3D GlassL": {
-          "venue": "Prasads Multiplex: Hyderabad",
-          "time": "07:45 AM",
-          "date": "20261106",
-          "cat": "GOLD + 3D GlassL",
-          "price": "400.00",
-          "status": "2"
-        },
-        "PRHN|258060|20261108|GOLD + 3D GlassL": {
-          "venue": "Prasads Multiplex: Hyderabad",
-          "time": "07:45 AM",
-          "date": "20261108",
-          "cat": "GOLD + 3D GlassL",
-          "price": "400.00",
-          "status": "2"
-        },
         "PRHN|258050|20261105|GOLD + 3D GlassL": {
           "venue": "Prasads Multiplex: Hyderabad",
           "time": "07:45 AM",
@@ -105,6 +89,30 @@
           "cat": "3D RECLINER",
           "price": "384.00",
           "status": "0"
+        },
+        "PRHN|257902|20261106|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "07:45 AM",
+          "date": "20261106",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "2"
+        },
+        "PRHN|258055|20261107|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "07:45 AM",
+          "date": "20261107",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "2"
+        },
+        "PRHN|258060|20261108|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "07:45 AM",
+          "date": "20261108",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "2"
         }
       },
       "dates": {
