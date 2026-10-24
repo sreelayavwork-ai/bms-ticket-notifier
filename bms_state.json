@@ -2,22 +2,6 @@
   "watches": {
     "hyderabad:ET00493076:all": {
       "shows": {
-        "PRHN|258055|20261107|GOLD + 3D GlassL": {
-          "venue": "Prasads Multiplex: Hyderabad",
-          "time": "07:45 AM",
-          "date": "20261107",
-          "cat": "GOLD + 3D GlassL",
-          "price": "400.00",
-          "status": "1"
-        },
-        "PRHN|258060|20261108|GOLD + 3D GlassL": {
-          "venue": "Prasads Multiplex: Hyderabad",
-          "time": "07:45 AM",
-          "date": "20261108",
-          "cat": "GOLD + 3D GlassL",
-          "price": "400.00",
-          "status": "2"
-        },
         "PRHN|258050|20261105|GOLD + 3D GlassL": {
           "venue": "Prasads Multiplex: Hyderabad",
           "time": "07:45 AM",
@@ -176,7 +160,7 @@
           "date": "20261105",
           "cat": "NORMAL",
           "price": "345.00",
-          "status": "3"
+          "status": "2"
         },
         "CPMH|8170|20261105|VIP": {
           "venue": "Cinepolis: Lulu Mall, Hyderabad",
@@ -282,19 +266,19 @@
           "price": "774.00",
           "status": "0"
         },
-        "PIIC|34536|20261105|PRIME ROWS": {
-          "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-          "time": "06:55 PM",
-          "date": "20261105",
-          "cat": "PRIME ROWS",
-          "price": "538.00",
-          "status": "1"
-        },
         "PIIC|34536|20261105|LOUNGERS ROWS": {
           "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
           "time": "06:55 PM",
           "date": "20261105",
           "cat": "LOUNGERS ROWS",
+          "price": "538.00",
+          "status": "1"
+        },
+        "PIIC|34536|20261105|PRIME ROWS": {
+          "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
+          "time": "06:55 PM",
+          "date": "20261105",
+          "cat": "PRIME ROWS",
           "price": "538.00",
           "status": "1"
         }
