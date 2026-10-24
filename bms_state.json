@@ -2,6 +2,22 @@
   "watches": {
     "hyderabad:ET00493076:all": {
       "shows": {
+        "PRHN|258055|20261107|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "07:45 AM",
+          "date": "20261107",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "1"
+        },
+        "PRHN|258060|20261108|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "07:45 AM",
+          "date": "20261108",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "2"
+        },
         "PRHN|258050|20261105|GOLD + 3D GlassL": {
           "venue": "Prasads Multiplex: Hyderabad",
           "time": "07:45 AM",
@@ -136,7 +152,7 @@
           "date": "20261105",
           "cat": "EXECUTIVE",
           "price": "345.00",
-          "status": "3"
+          "status": "2"
         },
         "CPMH|8169|20261105|NORMAL": {
           "venue": "Cinepolis: Lulu Mall, Hyderabad",
@@ -186,14 +202,6 @@
           "price": "418.00",
           "status": "0"
         },
-        "ILKS|12964|20261105|CLASSIC ROWS": {
-          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-          "time": "02:35 PM",
-          "date": "20261105",
-          "cat": "CLASSIC ROWS",
-          "price": "359.00",
-          "status": "2"
-        },
         "ILKS|12964|20261105|PRIME ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
           "time": "02:35 PM",
@@ -201,6 +209,14 @@
           "cat": "PRIME ROWS",
           "price": "359.00",
           "status": "0"
+        },
+        "ILKS|12964|20261105|CLASSIC ROWS": {
+          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+          "time": "02:35 PM",
+          "date": "20261105",
+          "cat": "CLASSIC ROWS",
+          "price": "359.00",
+          "status": "2"
         },
         "ILKS|12966|20261105|LOUNGER ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -280,22 +296,6 @@
           "date": "20261105",
           "cat": "LOUNGERS ROWS",
           "price": "538.00",
-          "status": "1"
-        },
-        "PRHN|257902|20261106|GOLD + 3D GlassL": {
-          "venue": "Prasads Multiplex: Hyderabad",
-          "time": "07:45 AM",
-          "date": "20261106",
-          "cat": "GOLD + 3D GlassL",
-          "price": "400.00",
-          "status": "2"
-        },
-        "PRHN|258055|20261107|GOLD + 3D GlassL": {
-          "venue": "Prasads Multiplex: Hyderabad",
-          "time": "07:45 AM",
-          "date": "20261107",
-          "cat": "GOLD + 3D GlassL",
-          "price": "400.00",
           "status": "1"
         }
       },
