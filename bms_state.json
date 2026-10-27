@@ -210,14 +210,6 @@
           "price": "418.00",
           "status": "0"
         },
-        "ILKS|12964|20261105|PRIME ROWS": {
-          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-          "time": "02:35 PM",
-          "date": "20261105",
-          "cat": "PRIME ROWS",
-          "price": "359.00",
-          "status": "0"
-        },
         "ILKS|12964|20261105|CLASSIC ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
           "time": "02:35 PM",
@@ -226,13 +218,13 @@
           "price": "359.00",
           "status": "2"
         },
-        "ILKS|12966|20261105|LOUNGER ROWS": {
+        "ILKS|12964|20261105|PRIME ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-          "time": "10:45 PM",
+          "time": "02:35 PM",
           "date": "20261105",
-          "cat": "LOUNGER ROWS",
-          "price": "418.00",
-          "status": "1"
+          "cat": "PRIME ROWS",
+          "price": "359.00",
+          "status": "0"
         },
         "ILKS|12966|20261105|RECLINER ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -241,6 +233,14 @@
           "cat": "RECLINER ROWS",
           "price": "418.00",
           "status": "0"
+        },
+        "ILKS|12966|20261105|LOUNGER ROWS": {
+          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+          "time": "10:45 PM",
+          "date": "20261105",
+          "cat": "LOUNGER ROWS",
+          "price": "418.00",
+          "status": "1"
         },
         "ILKS|12966|20261105|CLASSIC ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -376,7 +376,7 @@
           "date": "20261108",
           "cat": "GOLD + 3D GlassL",
           "price": "400.00",
-          "status": "2"
+          "status": "1"
         },
         "ALUC|6476|20261108|3D PLATINUM": {
           "venue": "ALLU Cinemas: Kokapet",
