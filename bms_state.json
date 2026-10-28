@@ -194,14 +194,6 @@
           "price": "345.00",
           "status": "2"
         },
-        "ILKS|12964|20261105|RECLINER ROWS": {
-          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-          "time": "02:35 PM",
-          "date": "20261105",
-          "cat": "RECLINER ROWS",
-          "price": "418.00",
-          "status": "0"
-        },
         "ILKS|12964|20261105|LOUNGER ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
           "time": "02:35 PM",
@@ -209,6 +201,14 @@
           "cat": "LOUNGER ROWS",
           "price": "418.00",
           "status": "2"
+        },
+        "ILKS|12964|20261105|RECLINER ROWS": {
+          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+          "time": "02:35 PM",
+          "date": "20261105",
+          "cat": "RECLINER ROWS",
+          "price": "418.00",
+          "status": "0"
         },
         "ILKS|12964|20261105|CLASSIC ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -242,14 +242,6 @@
           "price": "418.00",
           "status": "0"
         },
-        "ILKS|12966|20261105|CLASSIC ROWS": {
-          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-          "time": "10:45 PM",
-          "date": "20261105",
-          "cat": "CLASSIC ROWS",
-          "price": "359.00",
-          "status": "2"
-        },
         "ILKS|12966|20261105|PRIME ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
           "time": "10:45 PM",
@@ -257,6 +249,14 @@
           "cat": "PRIME ROWS",
           "price": "359.00",
           "status": "0"
+        },
+        "ILKS|12966|20261105|CLASSIC ROWS": {
+          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+          "time": "10:45 PM",
+          "date": "20261105",
+          "cat": "CLASSIC ROWS",
+          "price": "359.00",
+          "status": "2"
         },
         "AMCA|74487|20261105|3D GOLD": {
           "venue": "Asian M Cube Mall: Attapur",
@@ -330,6 +330,22 @@
           "price": "400.00",
           "status": "1"
         },
+        "PRHN|257903|20261106|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "03:25 PM",
+          "date": "20261106",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "2"
+        },
+        "PRHN|257901|20261106|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "11:05 PM",
+          "date": "20261106",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "2"
+        },
         "ALUC|6474|20261106|3D PLATINUM": {
           "venue": "ALLU Cinemas: Kokapet",
           "time": "07:20 AM",
@@ -354,6 +370,22 @@
           "price": "400.00",
           "status": "1"
         },
+        "PRHN|258057|20261107|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "03:25 PM",
+          "date": "20261107",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "2"
+        },
+        "PRHN|258059|20261107|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "11:05 PM",
+          "date": "20261107",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "2"
+        },
         "ALUC|6475|20261107|3D PLATINUM": {
           "venue": "ALLU Cinemas: Kokapet",
           "time": "07:20 AM",
@@ -368,7 +400,7 @@
           "date": "20261107",
           "cat": "3D GOLD",
           "price": "335.00",
-          "status": "3"
+          "status": "2"
         },
         "PRHN|258060|20261108|GOLD + 3D GlassL": {
           "venue": "Prasads Multiplex: Hyderabad",
@@ -377,6 +409,22 @@
           "cat": "GOLD + 3D GlassL",
           "price": "400.00",
           "status": "1"
+        },
+        "PRHN|258062|20261108|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "03:25 PM",
+          "date": "20261108",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "2"
+        },
+        "PRHN|258064|20261108|GOLD + 3D GlassL": {
+          "venue": "Prasads Multiplex: Hyderabad",
+          "time": "11:05 PM",
+          "date": "20261108",
+          "cat": "GOLD + 3D GlassL",
+          "price": "400.00",
+          "status": "3"
         },
         "ALUC|6476|20261108|3D PLATINUM": {
           "venue": "ALLU Cinemas: Kokapet",
