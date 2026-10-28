@@ -128,7 +128,7 @@
           "date": "20261105",
           "cat": "CLASSIC",
           "price": "345.00",
-          "status": "3"
+          "status": "2"
         },
         "PVFS|47777|20261105|RECLINER": {
           "venue": "PVR: Nexus Mall Kukatpally, Hyderabad",
@@ -194,14 +194,6 @@
           "price": "345.00",
           "status": "2"
         },
-        "ILKS|12964|20261105|LOUNGER ROWS": {
-          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-          "time": "02:35 PM",
-          "date": "20261105",
-          "cat": "LOUNGER ROWS",
-          "price": "418.00",
-          "status": "2"
-        },
         "ILKS|12964|20261105|RECLINER ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
           "time": "02:35 PM",
@@ -209,6 +201,14 @@
           "cat": "RECLINER ROWS",
           "price": "418.00",
           "status": "0"
+        },
+        "ILKS|12964|20261105|LOUNGER ROWS": {
+          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+          "time": "02:35 PM",
+          "date": "20261105",
+          "cat": "LOUNGER ROWS",
+          "price": "418.00",
+          "status": "2"
         },
         "ILKS|12964|20261105|CLASSIC ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -242,14 +242,6 @@
           "price": "418.00",
           "status": "0"
         },
-        "ILKS|12966|20261105|PRIME ROWS": {
-          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-          "time": "10:45 PM",
-          "date": "20261105",
-          "cat": "PRIME ROWS",
-          "price": "359.00",
-          "status": "0"
-        },
         "ILKS|12966|20261105|CLASSIC ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
           "time": "10:45 PM",
@@ -257,6 +249,14 @@
           "cat": "CLASSIC ROWS",
           "price": "359.00",
           "status": "2"
+        },
+        "ILKS|12966|20261105|PRIME ROWS": {
+          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+          "time": "10:45 PM",
+          "date": "20261105",
+          "cat": "PRIME ROWS",
+          "price": "359.00",
+          "status": "0"
         },
         "AMCA|74487|20261105|3D GOLD": {
           "venue": "Asian M Cube Mall: Attapur",
