@@ -298,14 +298,6 @@
           "price": "359.00",
           "status": "0"
         },
-        "ILKS|12966|20261105|LOUNGER ROWS": {
-          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
-          "time": "10:45 PM",
-          "date": "20261105",
-          "cat": "LOUNGER ROWS",
-          "price": "418.00",
-          "status": "0"
-        },
         "ILKS|12966|20261105|RECLINER ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
           "time": "10:45 PM",
@@ -314,12 +306,12 @@
           "price": "418.00",
           "status": "0"
         },
-        "ILKS|12966|20261105|PRIME ROWS": {
+        "ILKS|12966|20261105|LOUNGER ROWS": {
           "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
           "time": "10:45 PM",
           "date": "20261105",
-          "cat": "PRIME ROWS",
-          "price": "359.00",
+          "cat": "LOUNGER ROWS",
+          "price": "418.00",
           "status": "0"
         },
         "ILKS|12966|20261105|CLASSIC ROWS": {
@@ -329,6 +321,14 @@
           "cat": "CLASSIC ROWS",
           "price": "359.00",
           "status": "1"
+        },
+        "ILKS|12966|20261105|PRIME ROWS": {
+          "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+          "time": "10:45 PM",
+          "date": "20261105",
+          "cat": "PRIME ROWS",
+          "price": "359.00",
+          "status": "0"
         },
         "CPMH|8169|20261105|NORMAL": {
           "venue": "Cinepolis: Lulu Mall, Hyderabad",
@@ -400,7 +400,7 @@
           "date": "20261105",
           "cat": "LOUNGERS ROWS",
           "price": "538.00",
-          "status": "1"
+          "status": "2"
         },
         "PIIC|34536|20261105|RECLINER ROWS": {
           "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
@@ -410,19 +410,19 @@
           "price": "774.00",
           "status": "0"
         },
-        "PIIC|34536|20261105|PRIME ROWS": {
-          "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
-          "time": "06:55 PM",
-          "date": "20261105",
-          "cat": "PRIME ROWS",
-          "price": "538.00",
-          "status": "0"
-        },
         "PIIC|34536|20261105|LOUNGERS ROWS": {
           "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
           "time": "06:55 PM",
           "date": "20261105",
           "cat": "LOUNGERS ROWS",
+          "price": "538.00",
+          "status": "0"
+        },
+        "PIIC|34536|20261105|PRIME ROWS": {
+          "venue": "PVR Superplex Inorbit: LUXE, PXL, 4DX: Cyberabad",
+          "time": "06:55 PM",
+          "date": "20261105",
+          "cat": "PRIME ROWS",
           "price": "538.00",
           "status": "0"
         },
