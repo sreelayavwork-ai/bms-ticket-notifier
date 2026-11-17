@@ -3,13 +3,13 @@
     "hyderabad:ET00493076:all": {
       "shows": {},
       "dates": {
-        "20261116": "BOOKABLE",
-        "20261117": "AVAILABLE",
+        "20261117": "BOOKABLE",
         "20261118": "AVAILABLE",
         "20261119": "AVAILABLE",
         "20261120": "AVAILABLE",
         "20261121": "NOT_OPEN",
-        "20261122": "NOT_OPEN"
+        "20261122": "NOT_OPEN",
+        "20261123": "NOT_OPEN"
       }
     }
   }
